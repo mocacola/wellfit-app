@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "119619857802",
+    "project_id": "mocacola-f7ffe",
+    "storage_bucket": "mocacola-f7ffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119619857802:android:4c08d18d05d2eb4db72c73",
+        "android_client_info": {
+          "package_name": "com.mocalcola_wellfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119619857802-qug0hb303mg62basap4j4esttfp03h2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mocalcola_wellfit",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "119619857802-7uphc7r80h78el42lqfnmuom98a5e7nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnNEjmwzsgNr5GdGs3YcxEE_e-pOvuj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119619857802-7uphc7r80h78el42lqfnmuom98a5e7nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
